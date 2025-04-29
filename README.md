@@ -1,29 +1,3 @@
-<h1 align="left">Techs</h1>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+<div align="center">
+  <img src="[https://skillicons.dev/icons?i=html](https://sdmntprsouthcentralus.oaiusercontent.com/files/00000000-e560-61f7-bbb6-a0069f46f49b/raw?se=2025-04-29T13%3A04%3A56Z&sp=r&sv=2024-08-04&sr=b&scid=3d7cffa0-cf88-59f8-8b59-d19bb92b29fa&skoid=7c382de0-129f-486b-9922-6e4a89c6eb7d&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-29T03%3A10%3A48Z&ske=2025-04-30T03%3A10%3A48Z&sks=b&skv=2024-08-04&sig=HeeQd3ZECP8QmdZ7SvK7TcL39hrJpryyugwon2BBBO0%3D)" height="40" alt="html5 logo"  />
 </div>
-
-###
-
-<h1 align="left">Stats</h1>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thiago-Nascimento-2000&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Thiago-Nascimento-2000&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thiago-Nascimento-2000&radius=16&theme=vue&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
